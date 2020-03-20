@@ -5,7 +5,5 @@ public class HelloJava {
 		
 		System.out.print("Welcome ");
 		System.out.println("Danya Raza");
-		
-		// Test comment
 	}
 }
